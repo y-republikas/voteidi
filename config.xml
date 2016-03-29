@@ -43,6 +43,9 @@
     <splash src="res/screen/android/drawable-hdpi/splash.png"  platform="android" qualifier="hdpi" />
     <splash src="res/screen/android/drawable-xdpi/splash.png" platform="android" qualifier="xhdpi" />
     
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="10000" />
+
     <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />

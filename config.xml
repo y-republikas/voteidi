@@ -4,6 +4,7 @@
     <name>VOTEIDI</name>
     <description>Actualité  presidentiel  2016 TCHAD</description>
     <author email="younes@" href="http://www.Republikas.com">Republikas</author>
+    <preference name="Fullscreen" value="true" />
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -31,20 +32,17 @@
     <icon src="res/icons/ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" />
 
-    <icon src="res/icons/android/drawable-ldpi/Icon.png" platform="android" qualifier="ldpi" />
-    <icon src="res/icons/android/drawable-mdpi/Icon.png" platform="android" qualifier="mdpi" />
-    <icon src="res/icons/android/drawable-hdpi/Icon.png" platform="android" qualifier="hdpi" />
-    <icon src="res/icons/android/drawable-xdpi/Icon.png" platform="android" qualifier="xhdpi" />
+    <icon src="res/icons/android/drawable-ldpi/Icon.png" platform="android" density="ldpi" />
+    <icon src="res/icons/android/drawable-mdpi/Icon.png" platform="android" density="mdpi" />
+    <icon src="res/icons/android/drawable-hdpi/Icon.png" platform="android" density="hdpi" />
+    <icon src="res/icons/android/drawable-xdpi/Icon.png" platform="android" density="xhdpi" />
 	
     <splash src="splash.png" />
     
-    <splash src="res/screen/android/drawable-ldpi/splash.png"  platform="android" qualifier="ldpi" />
-    <splash src="res/screen/android/drawable-mdpi/splash.png"  platform="android" qualifier="mdpi" />
-    <splash src="res/screen/android/drawable-hdpi/splash.png"  platform="android" qualifier="hdpi" />
-    <splash src="res/screen/android/drawable-xdpi/splash.png" platform="android" qualifier="xhdpi" />
+   
     
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="5000" />
 
     <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />

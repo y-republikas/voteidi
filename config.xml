@@ -21,6 +21,7 @@
    
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
+    <plugin name="com.phonegap.plugins.pushplugin" spec="2.5.0" source="pgb" />
 
 	<icon src="icon.png" />
 	

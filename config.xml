@@ -36,7 +36,7 @@
      <icon src="res/icons/android/drawable-ldpi/Icon.png" density="ldpi" />
      <icon src="res/icons/android/drawable-mdpi/Icon.png"  density="mdpi" />
     <icon src="res/icons/android/drawable-hdpi/Icon.png"  density="hdpi" />
-    <icon src="res/icons/android/drawable-xxhdpi/Icon.png"  density="xhdpi" />
+    <icon src="res/icons/android/drawable-xhdpi/Icon.png"  density="xhdpi" />
     </platform>
 	
     <splash src="splash.png" />

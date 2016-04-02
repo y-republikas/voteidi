@@ -6,7 +6,7 @@
     <author email="younes@" href="http://www.Republikas.com">Republikas</author>
     <preference name="Fullscreen" value="true" />
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.5.1" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
@@ -28,7 +28,7 @@
     <icon src="res/icons/ios/Icon.png" gap:platform="ios" width="57" height="57" />
     <icon src="res/icons/ios/Icon@2x.png" gap:platform="ios" width="114" height="114" />    
     <icon src="res/icons/ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
-    <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" />
+    <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" /> 
 
    
 

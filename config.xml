@@ -6,7 +6,7 @@
     <author email="younes@" href="http://www.Republikas.com">Republikas</author>
     <preference name="Fullscreen" value="true" />
 
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name='phonegap-version' value='cli-5.1.1' />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->

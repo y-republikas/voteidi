@@ -16,11 +16,14 @@
     <gap:plugin name="org.apache.cordova.file" />
     
     <gap:plugin name="org.apache.cordova.splashscreen" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
+    <plugin name="org.apache.cordova.inappbrowser" spec="0.6.0" source="pgb" />
+
     <gap:plugin name="org.apache.cordova.dialogs" />
    
-    <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="com.simplec.plugins.localnotification" />
+    <plugin name="org.apache.cordova.network-information" spec="0.2.15" source="pgb" />
+
+    <plugin name="com.simplec.plugins.localnotification" spec="0.3.5" source="pgb" />
+
     <plugin name="com.phonegap.plugins.pushplugin" spec="2.5.0" source="pgb" />
 
 	<icon src="icon.png" />
